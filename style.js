@@ -52,7 +52,7 @@ let style = StyleSheet.create({
   },
   btnTextText: {
     fontSize: 16,
-    color: '#46cf98'
+    color: '#E62D34'
   },
   btnTextCancel: {
     color: '#666'
